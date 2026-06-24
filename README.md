@@ -3,7 +3,7 @@
 
 Experienced Cloud & DevOps Engineer with a proven track record of architecting robust GitOps pipelines, automating infrastructure, and managing scalable containerized environments. I bridge the gap between development and operations to deliver high-quality software efficiently.
 
-👁️ *Profile Views: ![Views](YOUR_COUNTER_URL_HERE)*
+👁️ *Profile Views: ![](https://komarev.com/ghpvc/?username=tarakaprabhuchinta&color=blue)
 
 ---
 
@@ -32,6 +32,8 @@ Proven hands-on experience across cloud engineering, automation, and full-stack 
     * Provisioned secure, automated AWS & Azure infrastructure using Terraform IaC.
 * **Full Stack Developer** | TecVibes *(2014 – 2016)*
     * Built responsive UI architectures and automated core testing workflows using Unix shell scripts.
+    * Engineered robust backend logic and RESTful web services utilizing Java with the Spring Framework, as well as PHP, ensuring scalable and secure application        architecture.
+    * Developed responsive web application pages utilizing HTML5, CSS3, and Bootstrap. Implemented Angular.JS services, controllers, and directives for the front-       end user interface and consumed REST web service APIs
 
 ---
 
